@@ -1,1 +1,42 @@
-
+- Anbernic RG34XX
+- Anbernic RG406H
+- Anbernic RG CubeXX
+- Anbernic RG406V
+- Anbernic RG40XXV
+- Anbernic RG40XXH
+- Anbernic RG Cube
+- Anbernic RG35XXSP
+- Anbernic RG28XX
+- Anbernic RG35XX (2024)
+- Anbernic RG556
+- Anbernic RG35XXH
+- Anbernic RG35XX Plus
+- Anbernic RG ARC-D
+- Anbernic RG ARC-S
+- Anbernic RG405V
+- Anbernic RG Nano
+- Anbernic RG353PS
+- Anbernic RG405M
+- Anbernic RG35XX
+- Anbernic RG505
+- Anbernic RG353M
+- Anbernic RG353V
+- Anbernic RG353VS
+- Anbernic WIN600
+- Anbernic RG353P
+- Anbernic RG503
+- Anbernic RG552
+- Anbernic K101 Plus
+- Anbernic RG351P
+- Anbernic RG351V
+- Anbernic RG300X
+- Anbernic Retro Game Plus
+- Anbernic RG351MP
+- Anbernic PAP KIII
+- Anbernic PAP K3 Plus
+- Anbernic RG350
+- Anbernic RG280M
+- Anbernic RG280V
+- Anbernic RG350P
+- Anbernic RG350M
+- Anbernic RG351M
