@@ -1,1 +1,3 @@
-
+- MagicX Mini Zero 28
+- MagicX XU 10
+- MagicX XU Mini M
