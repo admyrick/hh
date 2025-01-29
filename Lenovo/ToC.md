@@ -1,1 +1,4 @@
-
+- Lenovo Legion Go 2
+- Lenovo Legion Go S (Steam)
+- Lenovo Legion Go S (Windows)
+- Lenovo Legion Go
