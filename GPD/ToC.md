@@ -1,1 +1,20 @@
-
+- GPD Win Mini 2025
+- GPD Win 4 2025
+- GPD Win Max 2 2025
+- GPD Win Max 2 (2024)
+- GPD Win Mini 2024
+- GPD Win Mini
+- GPD Win 4 (7640U / 7840U)
+- GPD Win Max 2 (7640U / 7840U)
+- GPD Win 4
+- GPD Win Max 2
+- GPD Win XP Plus
+- GPD XP
+- GPD Win Max 2021
+- GPD Win 3
+- GPD Win Max
+- GPD Win 2
+- GPD XD+
+- GPD Win
+- GPD XD
+- GPD G5A
