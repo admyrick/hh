@@ -1,4 +1,4 @@
-# Software
+# Apps and Plugins
 
 ## Apps and Plugins
 - [EmuDeck](https://github.com/dragoonDorise/EmuDeck)
@@ -8,7 +8,3 @@
 - [NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck)
 - [Clover](https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot)
 - [RetroDECK](https://github.com/RetroDECK/RetroDECK)
-
-## Operating Systems
-- [WinDeck OS](https://github.com/Minibattle/WinDeckOS)
-- [WinDeck OS OLED](https://github.com/PS2ClassicsVault/WinDeckOS-OLED)
