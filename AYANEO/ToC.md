@@ -1,0 +1,22 @@
+- AYANEO 3
+- AYANEO Pocket DMG
+- AYANEO Pocket EVO
+- AYANEO Pocket Micro
+- AYANEO Pocket S
+- AYANEO Flip DS
+- AYANEO Flip KB
+- AYANEO Next Lite
+- AYANEO Slide
+- AYANEO KUN
+- AYANEO Pocket Air
+- AYANEO Air 1S
+- AYANEO Geek 1S
+- AYANEO 2S
+- AYANEO Air Plus
+- AYANEO Air Plus AMD 6800U
+- AYANEO 2
+- AYANEO Air Pro
+- AYANEO Air
+- AYANEO Next
+- AYANEO Pro
+- AYANEO
