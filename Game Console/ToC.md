@@ -1,1 +1,7 @@
-
+- R36H
+- R36 Max
+- R50S
+- R33S
+- R36S
+- R35S
+- GCW Zero
