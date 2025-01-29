@@ -8,3 +8,5 @@
 - [NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck)
 - [Clover](https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot)
 - [RetroDECK](https://github.com/RetroDECK/RetroDECK)
+- [ProteWine](https://github.com/hitman249/ProteWine)
+- 
