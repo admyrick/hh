@@ -9,3 +9,4 @@
 - OneXPlayer AMD
 - OneXPlayer 1S
 - OneXPlayer
+- OneGx1 Pro
