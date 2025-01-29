@@ -1,1 +1,11 @@
-
+- Retroid Pocket 5
+- Retroid Pocket Mini
+- Retroid Pocket 4
+- Retroid Pocket 4 Pro
+- Retroid Pocket 2S
+- Retroid Pocket Flip
+- Retroid Pocket 3 Plus
+- Retroid Pocket 3
+- Retroid Pocket 2+
+- Retroid Pocket 2
+- Retroid Pocket
