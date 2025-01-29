@@ -1,1 +1,2 @@
-
+- Zotac Zone 2
+- Zotac Zone
