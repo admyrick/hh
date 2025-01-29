@@ -1,5 +1,5 @@
 # Anbernic RG34XX
-https://sp-ao.shortpixel.ai/client/q_lossy+w_1234+to_auto+ret_img/retrohandhelds.gg/wp-content/uploads/2024/12/Anbernic-RG34XX-With-Other-Anbernic-Handhelds-2-1080x675.avif
+https://retrohandhelds.gg/wp-content/uploads/2024/12/Anbernic-RG34XX-With-Other-Anbernic-Handhelds-2-1080x675.avif
 
 
 ## Specs
