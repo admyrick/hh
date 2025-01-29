@@ -1,1 +1,6 @@
-
+- GKD Pixel 2
+- GKD Pixel
+- GKD Mini Plus Classic
+- GKD Mini Plus
+- GKD Mini
+- GKD 350H
