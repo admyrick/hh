@@ -1,1 +1,3 @@
+- Acer Nitro Blaze 8
+- Acer Nitro Blaze 11
 - Acer Nitro Blaze 7
