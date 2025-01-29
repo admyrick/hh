@@ -1,1 +1,36 @@
-
+- 351Droid
+- 351ELEC
+- Adam
+- AeolusUX/R36S-DTB
+- Allium
+- AmberELEC
+- ArkOS
+- Batocera
+- Bazzite
+- CrossMix OS
+- [DesktopOS](https://github.com/game-de-it/rg35xx/releases/tag/RG35xx_H700_DesktopOS_0.2)
+- DotUI
+  - DotUI-X
+- GammaOS
+- GarlicOS
+- H700 Stock OS Modification
+- JELOS
+- Koriki
+- KNULLI
+- Lakka
+- MinUI
+- MiyooCFW
+- muOS
+- Onion
+- plumOS
+- Recalbox
+- RetroOZ
+- RetroFW
+- RetroPie
+- RogueCFW
+- ROCKNIX
+- Simple30
+- spruceOS
+- TomatoOS
+- The Retro Arena
+- UnofficialOS
