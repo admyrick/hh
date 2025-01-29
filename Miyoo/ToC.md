@@ -1,4 +1,5 @@
-- Miyoo Mini
-- Miyoo Mini Plus
-- Miyoo A30
 - Miyoo Flip
+- Miyoo A30
+- Miyoo Mini Plus
+- Miyoo Mini
+- Bittboy Pocket Go S30
