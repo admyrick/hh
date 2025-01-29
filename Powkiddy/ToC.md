@@ -1,1 +1,28 @@
-
+- Powkiddy X35H
+- Powkiddy RGB20 Pro
+- Powkiddy RGB10X
+- Powkiddy X35S
+- Powkiddy V10
+- Powkiddy RGB20SX
+- Powkidy RGB10MAX3
+- Powkiddy X39 Pro
+- Powkiddy RGB30
+- Powkiddy RGB10MAX3 Pro
+- Powkiddy RK2023 (WiFi)
+- Powkiddy X55
+- Powkiddy X28
+- Powkiddy RK2023
+- Powkiddy X51
+- Powkiddy X70
+- Powkiddy J7
+- Powkiddy RGB20S
+- Powkiddy RGB10S
+- Powkiddy X39 Pro
+- Powkiddy A20
+- Powkiddy A12
+- Powkiddy V90
+- Powkiddy Q90
+- Powkiddy RGB20
+- Powkiddy A13
+- Powkiddy Q20 Mini
+- Powkiddy RGB10MAX
