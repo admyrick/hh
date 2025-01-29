@@ -1,3 +1,4 @@
+## Retro Handhelds
 - 351Droid
 - 351ELEC
 - Adam
@@ -6,7 +7,6 @@
 - AmberELEC
 - ArkOS
 - Batocera
-- Bazzite
 - CrossMix OS
 - [DesktopOS](https://github.com/game-de-it/rg35xx/releases/tag/RG35xx_H700_DesktopOS_0.2)
 - DotUI
@@ -34,3 +34,10 @@
 - TomatoOS
 - The Retro Arena
 - UnofficialOS
+
+## Windows/SteamOS/x86
+- Batocera
+- Bazzite
+- ChimeraOS
+- RetroPie
+- SteamFork
