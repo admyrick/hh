@@ -1,5 +1,9 @@
 - OneXPlayer G1
 - OneXFly F1 Pro
+- OneXPlayer X1 Mini
 - OneXPlayer X1
+- OneXPlayer 2
+- OneXPlayer Mini Pro
+- OneXPlayer Mini
 - OneXPlayer 1S
 - OneXPlayer OneXFly
