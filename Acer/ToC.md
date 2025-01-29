@@ -1,0 +1,1 @@
+- Acer Nitro Blaze 7
