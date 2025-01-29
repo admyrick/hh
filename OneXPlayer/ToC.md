@@ -1,0 +1,4 @@
+- OneXPlayer G1
+- OneXPlayer X1
+- OneXPlayer 1S
+- OneXPlayer OneXFly
