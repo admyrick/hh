@@ -1,3 +1,8 @@
+- MagicX Touch One 35
+- MagicX Touch Zero 40
+- MagicX One 34
+- MagicX One 41
+- MagicX SP
 - MagicX Mini Zero 28
 - MagicX XU 10
 - MagicX XU Mini M
