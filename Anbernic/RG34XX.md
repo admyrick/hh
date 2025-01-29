@@ -1,3 +1,8 @@
+# Anbernic RG34XX
+
+
+## Specs
+
 | Category     |   |
 |--------------|---|
 | Display      | 3.4" IPS  |
