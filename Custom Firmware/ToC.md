@@ -31,6 +31,7 @@
 - ROCKNIX
 - Simple30
 - spruceOS
+  - [spruceOS Nightlies](https://github.com/spruceUI/spruceOSNightlies) 
 - TomatoOS
 - The Retro Arena
 - [UnofficialOS](https://github.com/RetroGFX/UnofficialOS/wiki)
