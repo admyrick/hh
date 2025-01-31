@@ -33,7 +33,7 @@
 - spruceOS
 - TomatoOS
 - The Retro Arena
-- UnofficialOS
+- [UnofficialOS](https://github.com/RetroGFX/UnofficialOS/wiki)
 
 ## Windows/SteamOS/x86
 - Batocera
