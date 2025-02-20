@@ -1,4 +1,5 @@
 - Retroid Pocket 5
+  - https://www.reddit.com/r/retroid/comments/1gp9ojl/_/
 - Retroid Pocket Mini
 - Retroid Pocket 4
 - Retroid Pocket 4 Pro
