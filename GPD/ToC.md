@@ -7,6 +7,7 @@
 - GPD Win 4 (7640U / 7840U)
 - GPD Win Max 2 (7640U / 7840U)
 - GPD Win 4
+  - [lertsoft/GPD_WIN4](https://github.com/lertsoft/GPD_WIN4)
 - GPD Win Max 2
 - GPD Win XP Plus
 - GPD XP
